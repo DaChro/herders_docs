@@ -1,6 +1,6 @@
 # Herders Coping with Hazards in Kyrgyzstan and Mongolia - Code Documentation
 
-<p align="center">
+<p align="left">
  <img style="width:30%" src="Logo_Volkswagenstiftung.svg_-1024x256.png" alt="vws_logo"/>
 </p>
 
