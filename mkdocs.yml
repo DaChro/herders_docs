@@ -1,0 +1,9 @@
+site_name: herders_docs
+nav:
+    - Home: index.md
+    - Trajectory Analysis: trajectory_analysis.md
+    - Weather Data Analysis: weather_data_analysis.md
+
+theme: readthedocs
+
+
