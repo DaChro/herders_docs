@@ -3,8 +3,8 @@
 
 
 ### Trajectory Analysis Code
-The functions for analyzing trajetory data that have been developed throughout the project were bundled in the R-package `herdesTA`: [https://github.com/henningte/herdersTA](https://github.com/henningte/herdersTA)
+The functions for analyzing trajetory data that have been developed throughout the project were bundled in the R-package `herdersTA`: [https://github.com/henningte/herdersTA](https://github.com/henningte/herdersTA)
 
 
 ### Weather Data Analysis Code
-The functions for analyzing weather data that have been developed throughout the project were bundled in the R-package `herdesWDA`: [https://github.com/henningte/herdersWDA](https://github.com/henningte/herdersWDA)
+The functions for analyzing weather data that have been developed throughout the project were bundled in the R-package `herdersWDA`: [https://github.com/henningte/herdersWDA](https://github.com/henningte/herdersWDA)
