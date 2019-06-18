@@ -1,9 +1,11 @@
 # Herders Coping with Hazards in Kyrgyzstan and Mongolia - Code Documentation
 
-
+<p align="center">
+ <img style="width:30%" src="Logo_Volkswagenstiftung.svg_-1024x256.png" alt="vws_logo"/>
+</p>
 
 ### Trajectory Analysis Code
-The functions for analyzing trajetory data that have been developed throughout the project were bundled in the R-package `herdersTA`: [https://github.com/henningte/herdersTA](https://github.com/henningte/herdersTA)
+The functions for analyzing trajectory data that have been developed throughout the project were bundled in the R-package `herdersTA`: [https://github.com/henningte/herdersTA](https://github.com/henningte/herdersTA)
 
 
 ### Weather Data Analysis Code
